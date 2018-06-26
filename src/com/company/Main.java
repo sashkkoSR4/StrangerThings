@@ -6,5 +6,8 @@ public class Main {
         System.out.println("Stranger Things!");
         System.out.println("Stranger Things!");
         System.out.println("Stranger Things!");
+        System.out.println("Stranger Things!");
+        System.out.println("Stranger Things!");
+        System.out.println("Stranger Things!");
     }
 }
